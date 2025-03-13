@@ -18,7 +18,7 @@ const routes = {
 
   // staging
   //["docker-staging." + CUSTOM_DOMAIN]: dockerHub,
-  ["ql." + CUSTOM_DOMAIN]: "http://39.99.155.240/",
+  ["ql." + CUSTOM_DOMAIN]: "http://www.baidu.com/",
 };
 
 function routeByHosts(host) {
